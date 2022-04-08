@@ -19,3 +19,5 @@ Aquest es un exemple de **Markdown**
     </body>
 </html>
 ```
+## Pato, por que no?
+![Pato](Pato-pekin-donde-encontrar.jpg)
